@@ -1,0 +1,12 @@
+mat-icon {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.profile-card {
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+}
+
+.link-class {
+  font-size: 12px;
+}
